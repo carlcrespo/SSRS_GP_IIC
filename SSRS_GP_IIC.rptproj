@@ -49,6 +49,7 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSource Include="CORPSMDB25.IIC01.rds" />
     <DataSource Include="Dynamics.rds" />
     <DataSource Include="IIC01.rds" />
     <DataSource Include="SGDW.rds" />

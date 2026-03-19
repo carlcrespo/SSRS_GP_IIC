@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="CORPSMDB25.IIC01">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=CORPSMDB25;Initial Catalog=IIC01</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>64ef1093-df04-4fcd-82a7-0c745f16b871</DataSourceID>
+</RptDataSource>
